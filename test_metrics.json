@@ -1,0 +1,9 @@
+{
+  "model_type": "mobilenetv2",
+  "image_size": 160,
+  "num_classes": 31,
+  "test_loss": 0.3532646894454956,
+  "test_accuracy": 0.8849999904632568,
+  "model_path": "models/face_cnn.keras",
+  "labels_path": "models/labels.json"
+}

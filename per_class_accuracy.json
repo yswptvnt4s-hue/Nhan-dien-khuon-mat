@@ -1,0 +1,157 @@
+{
+  "BUI DANG KHOI": {
+    "correct": 3,
+    "total": 6,
+    "accuracy": 0.5
+  },
+  "DANG NGUYEN PHUONG NGHI": {
+    "correct": 6,
+    "total": 6,
+    "accuracy": 1.0
+  },
+  "HA PHUONG THAO": {
+    "correct": 3,
+    "total": 6,
+    "accuracy": 0.5
+  },
+  "HOANG BAO TRAN": {
+    "correct": 8,
+    "total": 9,
+    "accuracy": 0.8888888888888888
+  },
+  "HOANG BUI TRA MY": {
+    "correct": 5,
+    "total": 6,
+    "accuracy": 0.8333333333333334
+  },
+  "LE HUYNH DUC HUY": {
+    "correct": 6,
+    "total": 6,
+    "accuracy": 1.0
+  },
+  "LE MINH TRIET": {
+    "correct": 6,
+    "total": 6,
+    "accuracy": 1.0
+  },
+  "LE THAI BAO": {
+    "correct": 5,
+    "total": 6,
+    "accuracy": 0.8333333333333334
+  },
+  "LE THI NHU QUYNH": {
+    "correct": 6,
+    "total": 6,
+    "accuracy": 1.0
+  },
+  "LE TRAN QUY ANH": {
+    "correct": 6,
+    "total": 7,
+    "accuracy": 0.8571428571428571
+  },
+  "LE TRONG DAI": {
+    "correct": 6,
+    "total": 7,
+    "accuracy": 0.8571428571428571
+  },
+  "MAI HO QUOC TUY": {
+    "correct": 4,
+    "total": 6,
+    "accuracy": 0.6666666666666666
+  },
+  "NGUYEN BAO HAN": {
+    "correct": 6,
+    "total": 6,
+    "accuracy": 1.0
+  },
+  "NGUYEN DONG HAI": {
+    "correct": 5,
+    "total": 6,
+    "accuracy": 0.8333333333333334
+  },
+  "NGUYEN HOANG BAO": {
+    "correct": 6,
+    "total": 6,
+    "accuracy": 1.0
+  },
+  "NGUYEN HUU TOAN": {
+    "correct": 7,
+    "total": 8,
+    "accuracy": 0.875
+  },
+  "NGUYEN KHAC LUU VU": {
+    "correct": 10,
+    "total": 10,
+    "accuracy": 1.0
+  },
+  "NGUYEN NGOC KHANH UYEN": {
+    "correct": 6,
+    "total": 6,
+    "accuracy": 1.0
+  },
+  "NGUYEN NGOC KIM TUYET": {
+    "correct": 5,
+    "total": 6,
+    "accuracy": 0.8333333333333334
+  },
+  "NGUYEN THI THANH HA": {
+    "correct": 3,
+    "total": 6,
+    "accuracy": 0.5
+  },
+  "NGUYEN TRONG MINH": {
+    "correct": 5,
+    "total": 6,
+    "accuracy": 0.8333333333333334
+  },
+  "NHAN MANH TUAN": {
+    "correct": 7,
+    "total": 7,
+    "accuracy": 1.0
+  },
+  "PHAM DUC THANH CONG": {
+    "correct": 6,
+    "total": 6,
+    "accuracy": 1.0
+  },
+  "PHAM LY BAO LAM": {
+    "correct": 6,
+    "total": 6,
+    "accuracy": 1.0
+  },
+  "PHAM MAI PHUONG": {
+    "correct": 6,
+    "total": 7,
+    "accuracy": 0.8571428571428571
+  },
+  "THAI TUAN PHAT": {
+    "correct": 6,
+    "total": 6,
+    "accuracy": 1.0
+  },
+  "TRAN GIA HAN": {
+    "correct": 6,
+    "total": 6,
+    "accuracy": 1.0
+  },
+  "TRAN MINH HOANG": {
+    "correct": 7,
+    "total": 7,
+    "accuracy": 1.0
+  },
+  "TRAN NGOC THAO ANH": {
+    "correct": 6,
+    "total": 6,
+    "accuracy": 1.0
+  },
+  "TRAN THE DANG KHOA": {
+    "correct": 6,
+    "total": 6,
+    "accuracy": 1.0
+  },
+  "TRINH THUY HANG": {
+    "correct": 4,
+    "total": 6,
+    "accuracy": 0.6666666666666666
+  }
+}
